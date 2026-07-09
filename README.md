@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Hi, I'm Aman Singh Kushwah
 
-<!--
-**Amanx-ai/Amanx-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 IT Student at MITS Gwalior
 
-Here are some ideas to get you started:
+💻 Learning Data Structures & Algorithms
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤖 Interested in AI, Machine Learning & Software Development
+
+♟️ Building ChessMind-AI and other projects
+
+🎯 Goal: Become a Software Engineer
+
+---
+
+## 🛠️ Skills
+
+- C++
+- Python
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
+
+---
+
+## 📚 Currently Learning
+
+- Data Structures & Algorithms
+- Web Development
+- AI/ML
+
+---
+
+## 🚀 Projects
+
+### ChessMind-AI
+AI-powered chess board analysis and move recommendation system.
+
+### Canteen-Ease
+Smart canteen management platform.
+
+### SIP-2
+Full Stack Web Development project.
